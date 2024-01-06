@@ -202,6 +202,7 @@ void autonomous(void) {
 //       holonomic_odom_test();
 //       break;
 //  }
+  solo_AWP_short();
 }
  
 /*---------------------------------------------------------------------------*/
